@@ -1,5 +1,5 @@
-# Express Basico
-Desarrollo de pagina con Express
+# Express Dinamico
+Desarrollo de pagina dinamica con Express
 
 # Pasos de desarrollo
 1. Crear package.json [ npm init -y ]
